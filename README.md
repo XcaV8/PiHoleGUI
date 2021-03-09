@@ -21,10 +21,10 @@ See the "Fresh_Install_guide.txt" to replicate this project
  - System Info
 
 Main Menu
-![Main Menu](https://raw.githubusercontent.com/XcaV8/PiHoleGUI/main/PiHoleMenu.jpg)
+![Main Menu](https://raw.githubusercontent.com/XcaV8/PiHoleGUI/main/mainMenu.jpg)
 
 Pi-Hole menu:
-![enter image description here](https://raw.githubusercontent.com/XcaV8/PiHoleGUI/main/PiHoleMenu.jpg)
+![Pi-Hole menu](https://raw.githubusercontent.com/XcaV8/PiHoleGUI/main/PiHoleMenu.jpg)
 
 System Menu:
 ![System menu](https://raw.githubusercontent.com/XcaV8/PiHoleGUI/main/SystemMenu.jpg)
