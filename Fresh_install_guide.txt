@@ -92,10 +92,18 @@ dtparam=i2s=on
 dtparam=spi=on
 
 
-upload PiDisplay dir
+# install GUI
 
-*^*^*^*^8 Yes it works!! *^*^*^*^*
+https://github.com/XcaV8/PiHoleGUI/archive/main.zip
+unzip
+rename /home/pi/PiDisplay/
 
+test python /home/pi/PiDisplay/BasicMenu.py
+
+## set basicMenu.py Oled GUI to run at boot
+chmod 255 /etc/rc.local
+sudo nano /etc/rc.local
+    add -> sudo /usr/bin/python3 /home/pi/PiDisplay/runmenu.py &
 
 
 # uninstall LibreOffice
