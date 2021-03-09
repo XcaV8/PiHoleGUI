@@ -1,5 +1,3 @@
-﻿
-
 # PiHoleGUI
 
 Pi-Hole Gui on 1.3inch OLED Hat with Raspberry Pi Zero W (Python3)
@@ -21,6 +19,14 @@ See the "Fresh_Install_guide.txt" to replicate this project
  - OLED Contrast setting
  - Turn screen off
  - System Info
- 
-![The Pi](https://raw.githubusercontent.com/XcaV8/PiHoleGUI/main/Pi_with_Hat.jpg)
 
+Main Menu
+![Main Menu](https://raw.githubusercontent.com/XcaV8/PiHoleGUI/main/PiHoleMenu.jpg)
+
+Pi-Hole menu:
+![enter image description here](https://raw.githubusercontent.com/XcaV8/PiHoleGUI/main/PiHoleMenu.jpg)
+
+System Menu:
+![System menu](https://raw.githubusercontent.com/XcaV8/PiHoleGUI/main/SystemMenu.jpg)
+
+![The Pi](https://raw.githubusercontent.com/XcaV8/PiHoleGUI/main/Pi_with_Hat.jpg)
